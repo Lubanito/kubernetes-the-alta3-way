@@ -27,10 +27,10 @@ etcd_version: "3.4.15"
 cni_version: "0.9.1"
 containerd_version: "1.4.4"
 cri_tools_version: "1.21.0"
-cfssl_version: "1.4.1"
+cfssl_version: "1.6.0"
 runc_version: "1.0.0-rc91"
 coredns_version: "1.8.3"
-calico_version: "3.13.1"
+calico_version: "3.19.1"
 
 # cluster specifics
 cluster_name: "kubernetes-the-alta3-way"
